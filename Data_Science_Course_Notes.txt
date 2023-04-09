@@ -1,0 +1,4 @@
+Data Mining : 
+              cost - benefit trade off
+			  Level of accuracy from result
+			  
