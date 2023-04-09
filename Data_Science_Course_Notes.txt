@@ -8,7 +8,9 @@ data mining : summary
 	   6. Storage of data and its security.
 	   7. Data is subjected to data mining after all the above tasks.
 	   8. Starting pt of data mining is data visualisation to understand trends hidden in the dataset.
-	   9. Data mining and evaluating the results becomes an iterative process such that the analysts use better 
+	   9. First step in data mining is data visualization.
+	  10. Data mining and evaluating the results becomes an iterative process such that the analysts use better 
 	      and improved algorithms to improve the quality of results generated in light of the feedback received 
 		  from the key stakeholders.
-	   
+	  11. In-sample forecast is the process of formally evaluating the predictive capabilities of the models developed 
+	      using observed data to see how effective the algorithms are in reproducing data.
