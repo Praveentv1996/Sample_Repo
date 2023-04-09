@@ -1,4 +1,14 @@
-Data Mining : 
-              cost - benefit trade off
-			  Level of accuracy from result
-			  
+data mining : summary
+       1. cost - benefit trade off
+	   2. Level of accuracy from result
+	   3. Right selection of data has impact towards cost of data mining exercise
+	   4. PreProcessing a raw data to deal with missing & Erroneous data.
+	   5. Transforming data into proper format , reducing the attributes using PCA and dimensionality 
+	      reduction to get relevant attributes.
+	   6. Storage of data and its security.
+	   7. Data is subjected to data mining after all the above tasks.
+	   8. Starting pt of data mining is data visualisation to understand trends hidden in the dataset.
+	   9. Data mining and evaluating the results becomes an iterative process such that the analysts use better 
+	      and improved algorithms to improve the quality of results generated in light of the feedback received 
+		  from the key stakeholders.
+	   
