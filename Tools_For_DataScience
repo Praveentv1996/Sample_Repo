@@ -1,0 +1,37 @@
+
+Tasks performed by Data scientist
+1. Data Management 
+2. Data Integration and Transformation - ETL/ELT
+3. Data Visualization
+4. Model Building
+5. Model Deployment
+6. Model Monitoring & Assessment
+code asset management -- version control
+Data asset management -- data lineage / data governance 
+
+OPEN SOURCE TOOLS 
+ DATA MANAGEMENT 
+       RDBMS           : MySQL and PostgreSQL
+       NoSql Databases : MongoDB, Apache CouchDB, and Apache Cassandra
+       file-based tool Hadoop File System or Cloud File systems like Ceph	   
+ ETL
+     Apache Airflow
+	 kubeflow - which allows the execution of data science pipelines on top of Kubernetes
+	 Apache Kafka, which originated from LinkedIn.
+	 Apache Nifi, which delivers a very nice visual editor.
+	 Apache SparkSQL, lets you use ANSI SQL and scales up to compute clusters of thousands of nodes
+	 NodeRED also brings a visual editor. 
+	 In addition, NodeRED is so low in resource consumption that it even runs on tiny devices like a Raspberry Pi
+	 
+DATA VISUALIZATION TOOLS
+    PixieDust - pythion library also has user interface
+	Hue       -- Create visualizations using SQL Queries
+	Kibana    - a data exploration, and visualization web application is limited to Elasticsearch (data provider). 
+	Apache Superset is a data exploration and visualization web application.
+MODEL DEPLOYMENT TOOLS are 
+    Apache PredictionIO, Seldon, Kubernetes, Redhat OpenShift, Mleap, TensorFlow service, TensorFlow lite, and TensorFlow dot JS.
+MODEL MONITORING TOOLS are 
+    ModelDB, Prometheus, IBM AI Fairness 360, IBM Adversarial Robustness 360 Toolbox, and IBM AI Explainability 360. 
+	
+CODE ASSET MANAGEMENT tools are Git, GitHub, GitLab, and Bitbucket.  
+DATA ASSET MANAGEMENT tools are Apache Atlas, ODPi Egeria, and Kylo.
