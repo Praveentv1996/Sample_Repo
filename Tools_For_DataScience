@@ -35,3 +35,25 @@ MODEL MONITORING TOOLS are
 	
 CODE ASSET MANAGEMENT tools are Git, GitHub, GitLab, and Bitbucket.  
 DATA ASSET MANAGEMENT tools are Apache Atlas, ODPi Egeria, and Kylo.
+
+Developemnt Environments :  Jupyter Notebook 
+                            Jupyter LAb -- Nxt version of Jupyter Notebook
+							Apache Zepplin - similiar to jupyter Lab
+							R studio
+							Spyder
+							Apache Spark - batch processing
+							Apache flink - image processing
+					        Ray - with more deep learning models
+						    KNIME  - drag and drop facilities
+							Orange 
+						
+COMMERCIAL TOOLS
+
+DATA MANAGEMENT     Oracle database, Microsoft SQL Server, IBM DB2
+ETL TOOLS           Informatica , IBM Watson studio desktop, talend,
+                    IBM Infosphere datastage
+DATA VISUALIZATION TOOLS   Tableau, Power BI and IBM cognos analytics
+Model deployment    SPSS , SAS
+
+Watson studio IBM -- covers everything		
+			
