@@ -1,0 +1,26 @@
+Scientific computing libraries
+     used for data cleaning
+     Pandas -- Work with 2d dataframes
+	 NumPy -- with Arrays and matrices.
+	 
+Data Visualization lib
+	MatPlot1lib -- for graphs , plots
+	SeaBorn -- Timeseries , heatmaps , violin plots
+	
+Machine learning lib
+    ScikitLearn - statistical model --> regression, classification & Clustering
+	              It is Built on scipy, numpy and matplotlib
+	Keras  - Allows to build deep learning model simply [high level]
+
+Deep learning lib
+    TensorFlow - Low level framework, for production and deployment of Large scale Deep Learning models
+	PyTorch    - reasearchers use this to test ideas
+	
+Apache spark - use more than one computing clusters to process data in parallel 
+               similiar to numpy, pandas and scikit learn
+			   Apache spark Data processing jobs are available in R, Python and scala , SQL
+			   
+Other Lang Libraries 
+    scala - vegas - data viz
+	        BigDL - for Deep learning
+	R - ggplot2 - data viz

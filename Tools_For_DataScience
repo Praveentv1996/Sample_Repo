@@ -56,4 +56,14 @@ DATA VISUALIZATION TOOLS   Tableau, Power BI and IBM cognos analytics
 Model deployment    SPSS , SAS
 
 Watson studio IBM -- covers everything		
-			
+
+FULLY INTEGRATED VISUAL PLATFORM AND TOOLS :     			
+
+      Watson studio & Watson OpenScale - complete tool for integrating all data science , ML and AI tasks
+	  Microsoft Azure  - Cloud hosted fully supported complete development tool for integrating all data science , ML and AI tasks
+	  H20 Driverless AI
+	  AWS Dynamo DB -- provides Saas
+	  Cloudant --  Provides Database as a service , 
+	               It is based on open source Apache CouchDB,
+	  IBM DB2 -- gives same service commercial
+				   
