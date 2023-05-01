@@ -1,0 +1,33 @@
+Markdown
+
+**text** or __text__    ==> for Bold
+*text* or _text_  ==> italics
+***text*** / ___text___ ==> for both bold and italics
+
+To insert link 
+[Skills Network](https://skills.network/)
+[Name of link](URL)
+
+to insert image 
+LOGO: ![This is the skills network logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/assets/logos/SN_web_lightmode.png)
+Name of image ![alt text](PATH)
+
+To create tables, use:
+
+hyphens (----) for column headers
+pipes | to separate each column
+Text on a new line to separate each row
+
+| Country Name | Capital |
+| -------------| ------ |
+| United States | Washington DC |
+| Australia | Canberra |
+| India | New Delhi |
+
+Unordered List
+An unordered list is also referred to as a bulleted list.
+
+You can create an unordered list by adding dashes (-), asterisks (*), or plus signs (+) in front of line items
+
+Ordered List
+We can create an ordered list by adding line items with numbers followed by periods

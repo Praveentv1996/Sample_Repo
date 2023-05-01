@@ -10,7 +10,7 @@ Data Visualization lib
 Machine learning lib
     ScikitLearn - statistical model --> regression, classification & Clustering
 	              It is Built on scipy, numpy and matplotlib
-	Keras  - Allows to build deep learning model simply [high level]
+	Keras  - Allows to build deep learning model simply [high level], GPU is needed
 
 Deep learning lib
     TensorFlow - Low level framework, for production and deployment of Large scale Deep Learning models
@@ -24,3 +24,7 @@ Other Lang Libraries
     scala - vegas - data viz
 	        BigDL - for Deep learning
 	R - ggplot2 - data viz
+	
+API :  other API, Rest API
+Data Asset Exchange (DAX)
+Model Asset Exchange (MAX)  - use of Pretrained models takes less time to train Deep learning model
